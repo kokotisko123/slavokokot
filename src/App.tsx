@@ -224,8 +224,8 @@ function App() {
               </p>
               <div className="flex items-center space-x-4 mt-4">
                 <Mail className="h-5 w-5 text-gray-400" />
-                <a href="mailto:help@chainify.net" className="text-gray-400 hover:text-white transition-colors">
-                  help@chainify.net
+                <a href="mailto:help@chainifyai.net" className="text-gray-400 hover:text-white transition-colors">
+                  help@chainifyai.net
                 </a>
               </div>
             </div>
